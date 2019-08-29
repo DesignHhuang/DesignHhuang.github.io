@@ -4,15 +4,21 @@ title: 关于
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## 有一天
+**黄黄小遇到了小小吴**
+**后来......**
+**他们幸福地生活在一起**
+**喜欢吃的东西：**`甜品` `木耳` `虾滑` `月饼` `西瓜` `丝瓜`
+重要日期：1991年11月17日
+重要日期：2018年8月21日
+重要日期：2019年4月8日
+重要日期：2019年10月3日
+```flow
+op1=>operation: 1991年11月17日
+op2=>operation: 2018年8月21日
+op3=>operation: 2019年4月8日
+op4=>operation: 2019年10月3日
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+op1->op2->op3->op4
+```
