@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "ambari模拟自动登录"
