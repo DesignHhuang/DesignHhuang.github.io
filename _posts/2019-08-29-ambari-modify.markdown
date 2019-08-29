@@ -1,4 +1,12 @@
+
 ---
+layout: post
+title:  "ambari模拟自动登录"
+date:   2019-08-29 13:10:46 +0800
+categories: huangxiaomin update
+---
+
+
 为了从自己的系统中跳转到Ambari的时候不需要进行登录操作，研究了一下实现了，这里记录一下。
 
 ------
