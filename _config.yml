@@ -1,10 +1,9 @@
-title: 要么中，要么串
+title: 繁星纵变，智慧永恒
 email: ihuanglimin@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  姿势分享，Angular,Vue,React,TypeScript...
+  那些你独自一人度过的时间，比如组装电脑或者练习大提琴，其实你真正在做的是让自己变有趣。等有天别人真正注意到你时，他们会发现一个比他们想象中更酷的人。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.ihuanglimin.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: hlm_mlh
 github_username:  DesignHhuang
 
 # Build settings
