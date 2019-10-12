@@ -418,7 +418,7 @@ stolon-proxy --cluster-name stolon-cluster --store-backend=etcdv3 --port 25432 -
 ```
 psql --host 172.16.10.10 --port 25432 -U postgres
 ```
-密码：`postgres123456.com`
+
 ```
 postgres=#
 Create a test table and insert a row
